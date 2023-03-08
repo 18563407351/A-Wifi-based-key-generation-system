@@ -7,4 +7,4 @@ The key generation procedure contains four steps:
 * quantization  
 * information reconciliation  
 * privacy amplification  
-![key generation procedure]()
+![key generation procedure](https://github.com/18563407351/Liverpool-FYP/blob/main/images/1603971639(1).png)
