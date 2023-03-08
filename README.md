@@ -8,3 +8,22 @@ The key generation procedure contains four steps:
 * information reconciliation  
 * privacy amplification  
 ![key generation procedure](https://github.com/18563407351/Liverpool-FYP/blob/main/images/1603971639(1).png)
+## Environment dependencis
+### 1. Signal processing:  
+* numpy 
+* scipy
+* PyWavelets
+* sklearn
+### 2. GUI design:  
+* pyqtgraph
+* PyQT5
+* opencv-python(4.2.0.32)
+* matplotlib
+### 3. Serial read:  
+* pyserial
+* serial
+### 4. Key generation and encryption:  
+* bchlib
+* hashlib
+* Crypto.Cipher
+* pybase64
